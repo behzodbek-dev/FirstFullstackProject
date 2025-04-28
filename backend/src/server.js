@@ -1,5 +1,5 @@
 const http = require("node:http");
-const PORT = 3000;
+const PORT = 3001;
 const fs = require("node:fs");
 const path = require("node:path");
 const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
